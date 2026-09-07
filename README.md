@@ -3,6 +3,6 @@ KlickyDock is an automatic docking system for the Klicky Probe, designed for the
 
 The project includes all required STL files, Klipper configuration files, and macros needed to build and operate KlickyDock.
 
-Create a folder Klicky_Dock and place KlickyDock.cfg and KlickyDock.conf.
-Copy the KlickyDock.py to the KlipperScreen/panels folder.
-Add [include Klicky_Dock/KlickyDock.conf] to KlipperScreen.conf.
+Create a folder named Klicky_Dock and place KlickyDock.cfg and KlickyDock.conf in the folder.
+Copy KlickyDock.py to the KlipperScreen/panels folder.
+Add [include Klicky_Dock/KlickyDock.conf] to the KlipperScreen.conf.
