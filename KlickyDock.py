@@ -1,3 +1,6 @@
+# ----------------------------------------------------
+# Add this to KlipperScreen/panels
+# ----------------------------------------------------
 import math
 import time
 import gi
