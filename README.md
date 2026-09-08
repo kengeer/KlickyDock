@@ -1,5 +1,5 @@
 # KlickyDock
-KlickyDock is an automatic docking system for the Klicky Probe, designed for the Voron Trident. A servo rotates the dock horizontally, moving it from a retracted position on the left to the docking position on the right when the probe needs to be attached or removed.
+KlickyDock is an automatic docking system for the Klicky Probe, designed for the Voron Trident. A servo rotates the dock horizontally, moving it from a retracted position on the left to the docking position on the right when the probe needs to be attached or removed. The dock only has a 90deg of motion.
 
 **Parts List**<br>
 1 - 688-2RS Ball Bearing<br>
